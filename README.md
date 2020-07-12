@@ -1,5 +1,7 @@
 ### Hi! My name is Sruthika. 👋
 
+😄 Pronouns: she/her/hers
+
 🔭 I’m currently working on my undergraduate degree in Biomedical Engineering (and maybe Computer Science...who knows?)
 
 🌱 I’m currently learning elementary deep learning frameworks using Numpy. 
@@ -12,6 +14,6 @@
 
 📫 How to reach me: Feel free to <a href ="mailto:sbaviriseaty@gmail.com"> email me</a>. Since you've already got my username, follow me on <a href = "https://www.twitter.com/sbaviriseaty">Twitter</a>, connect with me on <a href ="https://www.linkedin.com/in/sbaviriseaty/">LinkedIn</a>, and check out <a href ="https://sbaviriseaty.me">my website </a>. 
 
-😄 Pronouns: she/her/hers
-
 ⚡ Fun fact: I'm an avid Jeopardy fan, indie pop aficionado, and wholesome meme enthusiast. 
+
+**Ask me <a href = "https://github.com/sbaviriseaty/ama">anything</a>!** _(Answers will be provided at my discretion)_
