@@ -10,7 +10,7 @@
 
 💬 Ask me about what software and hardware I like to use. 
 
-📫 How to reach me: Feel free to email me at sbaviriseaty dot gmail [dot] com. Since you've already got my username, feel free to follow me on Twitter ([at] sbaviriseaty) and check out my website (sbaviriseaty [dot] me). 
+📫 How to reach me: Feel free to [email me] (sbaviriseaty@gmail.com). Since you've already got my username, feel free to [follow me on Twitter] (https://www.twitter.com/sbaviriseaty), connect with me on LinkedIn (https://www.linkedin.com/in/sbaviriseaty/), and check out [my website] (https://sbaviriseaty.me). 
 
 😄 Pronouns: she/her/hers
 
