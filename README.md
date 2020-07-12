@@ -14,6 +14,6 @@
 
 📫 How to reach me: Feel free to <a href ="mailto:sbaviriseaty@gmail.com"> email me</a>. Since you've already got my username, follow me on <a href = "https://www.twitter.com/sbaviriseaty">Twitter</a>, connect with me on <a href ="https://www.linkedin.com/in/sbaviriseaty/">LinkedIn</a>, and check out <a href ="https://sbaviriseaty.me">my website </a>. 
 
-⚡ Fun fact: I'm an avid Jeopardy fan, indie pop aficionado, and wholesome meme enthusiast. Also, I don't if you can tell, but I love using emojis!
+⚡ Fun fact: I'm an avid Jeopardy fan, indie pop aficionado, and wholesome meme enthusiast. Also, I don't know if you can tell, but I love using emojis!
 
 ✨ **Ask me <a href = "https://github.com/sbaviriseaty/ama">anything</a>!** ✨ _(Answers will be provided at my discretion)_
