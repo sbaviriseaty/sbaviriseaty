@@ -17,7 +17,3 @@
 ⚡ Fun fact: I'm an avid Jeopardy fan, indie pop aficionado, and wholesome meme enthusiast. Also, I don't know if you can tell, but I love using emojis!
 
 ✨ **Ask me <a href = "https://github.com/sbaviriseaty/ama">anything</a>!** ✨ _(Answers will be provided at my discretion)_
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sbaviriseaty&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
